@@ -1,4 +1,4 @@
-# reading-material
+# Reading material
 Reading list of interesting/helpful material for programming and programming theory
 
 ## November '18
