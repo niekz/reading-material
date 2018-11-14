@@ -1,5 +1,6 @@
 # Reading material
 Reading list of interesting/helpful material for programming and programming theory
+Idea blatently and shamelessly stolen from @ShadowRhyder and @tiaanduplessis
 
 ## November '18
 - https://kubuszok.com/2018/kinds-of-types-in-scala-part-1/
