@@ -10,3 +10,4 @@ Idea blatently and shamelessly stolen from @ShadowRhyder and @tiaanduplessis
 - [ ] https://www.youtube.com/watch?v=s2ay9nEW3ak *Fun(c) 2018.4: Adam Rosien - why do Functional Programmers always talk about Algebra(s)?*
 - [ ] https://towardsdatascience.com/https-medium-com-skuttruf-machine-learning-in-finance-algorithmic-trading-on-energy-markets-cb68f7471475
 - [x] https://medium.com/@tomasz_96685/saga-pattern-and-microservices-architecture-d4b46071afcf *Sagas - Compensation actions for microservice transactions*
+- [x] https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5 *ML and Deep Learning Cheat Sheet*
