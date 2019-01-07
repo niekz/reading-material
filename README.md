@@ -7,6 +7,7 @@ Idea blatently and shamelessly stolen from @ShadowRhyder and @tiaanduplessis
 - [x] https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf *Step by step guide to restful api's*
 - [x] https://medium.com/hashmapinc/rest-good-practices-for-api-design-881439796dc9 *Good practices for API design*
 - [x] https://restfulapi.net/richardson-maturity-model/ *Maturity model for restful api's*
+- [x] https://itnext.io/useful-reduce-use-cases-91a86ee10bcd *Use cases for reduce*
 
 ## November '18
 ### Code
