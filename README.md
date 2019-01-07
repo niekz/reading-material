@@ -5,6 +5,7 @@ Idea blatently and shamelessly stolen from @ShadowRhyder and @tiaanduplessis
 ## January '19
 ### Code
 - [x] https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf *Step by step guide to restful api's*
+- [x] https://medium.com/hashmapinc/rest-good-practices-for-api-design-881439796dc9 *Good practices for API design*
 
 ## November '18
 ### Code
