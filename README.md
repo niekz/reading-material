@@ -2,6 +2,10 @@
 Reading list of interesting/helpful material for programming and programming theory
 Idea blatently and shamelessly stolen from @ShadowRhyder and @tiaanduplessis
 
+## January '19
+### Code
+- [x] https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf *Step by step guide to restful api's*
+
 ## November '18
 ### Code
 - [x] https://kubuszok.com/2018/kinds-of-types-in-scala-part-1/
