@@ -9,6 +9,7 @@ Idea blatently and shamelessly stolen from @ShadowRhyder and @tiaanduplessis
 - [x] https://restfulapi.net/richardson-maturity-model/ *Maturity model for restful api's*
 - [x] https://itnext.io/useful-reduce-use-cases-91a86ee10bcd *Use cases for reduce*
 - [x] https://restfulapi.net/rest-api-design-tutorial-with-example/ *Restful api design, with examples*
+- [x] https://restfulapi.net/hateoas/ *Hateoas Restful Api design*
 
 ## November '18
 ### Code
