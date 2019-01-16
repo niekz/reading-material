@@ -13,6 +13,7 @@ Reading list of interesting/helpful material for programming and programming the
 - [x] https://apigee.com/about/blog/api-technology/api-design-harnessing-hateoas-part-1 *Harnessing HATEOAS*
 - [x] https://thenewstack.io/the-good-bad-and-ugly-apache-spark-for-data-science-work/ *Pros and Cons of apache spark for big data analysis*
 - [x] https://medium.com/@maximilianofelice/builder-pattern-in-scala-with-phantom-types-3e29a167e863 *Builder pattern*
+- [x] https://nordicapis.com/designing-a-true-rest-state-machine/ *HATEOAS as a design constraint instead of a consideration*
 
 ### Devops
 - [x] https://jenkins.io/doc/book/pipeline/jenkinsfile/ *Jenkins pipeline reference*
