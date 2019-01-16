@@ -10,14 +10,15 @@ Idea blatently and shamelessly stolen from @ShadowRhyder and @tiaanduplessis
 - [x] https://itnext.io/useful-reduce-use-cases-91a86ee10bcd *Use cases for reduce*
 - [x] https://restfulapi.net/rest-api-design-tutorial-with-example/ *Restful api design, with examples*
 - [x] https://restfulapi.net/hateoas/ *Hateoas Restful Api design*
+- [x] https://nordicapis.com/designing-a-true-rest-state-machine/ *Rest design & HATEOAS*
+- [x] https://apigee.com/about/blog/api-technology/api-design-harnessing-hateoas-part-1 *Harnessing HATEOAS*
+- [x] https://thenewstack.io/the-good-bad-and-ugly-apache-spark-for-data-science-work/ *Pros and Cons of apache spark for big data analysis*
 
 ### Devops
 - [x] https://jenkins.io/doc/book/pipeline/jenkinsfile/ *Jenkins pipeline reference*
 
-### Reading / Business / Management / Design
+### General Reading
 - [x] https://medium.com/@amandoabreu/you-dont-understand-your-software-engineers-53442ca0805a *Work interruptions and how it influences productivity*
-- [x] https://thenewstack.io/the-good-bad-and-ugly-apache-spark-for-data-science-work/ *Pros and Cons of apache spark for big data analysis*
-- [x] https://apigee.com/about/blog/api-technology/api-design-harnessing-hateoas-part-1 *Harnessing HATEOAS*
 
 ## November '18
 ### Code
