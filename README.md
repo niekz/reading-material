@@ -21,6 +21,7 @@ Reading list of interesting/helpful material for programming and programming the
 
 ### General Reading
 - [x] https://medium.com/@amandoabreu/you-dont-understand-your-software-engineers-53442ca0805a *Work interruptions and how it influences productivity*
+- [x] https://smallbusiness.chron.com/elements-effective-teamwork-964.html *Effective teamwork and how to find it*
 
 ## November '18
 ### Code
