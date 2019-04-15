@@ -7,6 +7,8 @@ Reading list of interesting/helpful material for programming and programming the
 - [x] https://medium.com/@sinisalouc/overcoming-type-erasure-in-scala-8f2422070d20 *Overcoming Type Erasure*
 - [x] https://medium.com/@shannonbarnes_85491/algebraic-data-types-in-scala-701f3227fe91 *Algebraic data types in scala*
 
+### General Reading
+- [ ] https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c *Better dashboard design*
 
 ## January '19
 ### Code
