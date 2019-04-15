@@ -5,6 +5,7 @@ Reading list of interesting/helpful material for programming and programming the
 ### Code
 - [ ] https://medium.com/iterators/tagless-with-discipline-testing-scala-code-the-right-way-e74993a0d9b1 *Tagless design (Testability + Functional Free design)*
 - [x] https://medium.com/@sinisalouc/overcoming-type-erasure-in-scala-8f2422070d20 *Overcoming Type Erasure*
+- [x] https://medium.com/@shannonbarnes_85491/algebraic-data-types-in-scala-701f3227fe91 *Algebraic data types in scala*
 
 
 ## January '19
