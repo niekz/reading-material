@@ -8,6 +8,8 @@ Reading list of interesting/helpful material for programming and programming the
 - [x] https://medium.com/@shannonbarnes_85491/algebraic-data-types-in-scala-701f3227fe91 *Algebraic data types in scala*
 - [ ] https://blog.redelastic.com/a-guide-to-scala-collections-exploring-monads-in-scala-collections-ef810ef3aec3 *Exploring Monads in Scala collections*
 - [ ] https://medium.com/zyseme-technology/functional-references-lens-and-other-optics-in-scala-e5f7e2fdafe *Funcitonal references : Optics and Other*
+- [ ] https://medium.com/disney-streaming/option-either-state-and-io-imperative-programming-in-a-functional-world-8e176049af81 *Imperitive programming in a functional world*
+- [ ] https://blog.softwaremill.com/is-your-scala-object-always-a-singleton-cb3fd24a2fd9 *Scala Singletons*
 
 ### General Reading
 - [ ] https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c *Better dashboard design*
