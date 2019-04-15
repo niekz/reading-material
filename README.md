@@ -1,6 +1,12 @@
 # Reading material
 Reading list of interesting/helpful material for programming and programming theory
 
+## April '19
+### Code
+- [ ] https://medium.com/iterators/tagless-with-discipline-testing-scala-code-the-right-way-e74993a0d9b1 Tagless design (Testability + Functional Free design)
+- [x] https://medium.com/@sinisalouc/overcoming-type-erasure-in-scala-8f2422070d20 Overcoming Type Erasure
+
+
 ## January '19
 ### Code
 - [x] https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf *Step by step guide to restful api's*
