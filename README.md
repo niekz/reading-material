@@ -14,8 +14,9 @@ Reading list of interesting/helpful material for programming and programming the
 ### General Reading
 - [ ] https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c *Better dashboard design*
 
-### Books to read
+### Publications
 - [ ] Functional And Reactive Domain Modeling - Debasish Ghosh
+- [ ] https://arxiv.org/ftp/arxiv/papers/1703/1703.10857.pdf - *Profunctor Optics: Modular Data Accessors*
 
 ## January '19
 ### Code
