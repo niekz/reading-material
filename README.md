@@ -14,6 +14,9 @@ Reading list of interesting/helpful material for programming and programming the
 ### General Reading
 - [ ] https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c *Better dashboard design*
 
+### Books to read
+- [ ] Functional And Reactive Domain Modeling - Debasish Ghosh
+
 ## January '19
 ### Code
 - [x] https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf *Step by step guide to restful api's*
