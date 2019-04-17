@@ -10,6 +10,7 @@ Reading list of interesting/helpful material for programming and programming the
 - [ ] https://medium.com/zyseme-technology/functional-references-lens-and-other-optics-in-scala-e5f7e2fdafe *Funcitonal references : Optics and Other*
 - [ ] https://medium.com/disney-streaming/option-either-state-and-io-imperative-programming-in-a-functional-world-8e176049af81 *Imperitive programming in a functional world*
 - [ ] https://blog.softwaremill.com/is-your-scala-object-always-a-singleton-cb3fd24a2fd9 *Scala Singletons*
+- [ ] https://www.clianz.com/2016/04/26/scala-magnet-pattern/ *Magnet Pattern*
 
 ### General Reading
 - [ ] https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c *Better dashboard design*
