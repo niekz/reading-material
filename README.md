@@ -14,6 +14,7 @@ Reading list of interesting/helpful material for programming and programming the
 
 ### General Reading
 - [ ] https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c *Better dashboard design*
+- [ ] https://whatis.techtarget.com/definition/entity-tag-Etag *ETags*
 
 ### Publications
 - [ ] Functional And Reactive Domain Modeling - Debasish Ghosh
